@@ -1,7 +1,7 @@
 # CS135
 Course: Intro To Computer Science I
 
-This course was taken in the Fall of my Freshman year (Fall 2015).
+This course was taken in the fall of my Freshman year (Fall 2015).
 
 It covered fundamental programming concepts such as if statements, while loops, multi-dimensional arrays, bitwise operations, etc.
 The language the course taught was C. This was to form a fundamental understanding of how programming languages worked before moving on to higher level programming.
